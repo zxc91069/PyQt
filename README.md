@@ -1,2 +1,2 @@
-# Temple_system
-This system can help the work of Taiwanese temples. 
+# Temple 廟宇點燈ui
+This system can help the work of Taiwan temples. 
