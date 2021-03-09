@@ -1,7 +1,7 @@
 # Temple light UI
   This UI only use for taiwan temple.
 
-##How to use
+## How to use  
   Excute Run_temple.bat
 
 ## Function introducing
